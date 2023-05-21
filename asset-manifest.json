@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/eswarreactlearning/static/css/main.073c9b0a.css",
-    "main.js": "/eswarreactlearning/static/js/main.e0240d9b.js",
-    "static/js/787.b24b3bec.chunk.js": "/eswarreactlearning/static/js/787.b24b3bec.chunk.js",
-    "static/media/logo.svg": "/eswarreactlearning/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/eswarreactlearning/index.html",
-    "main.073c9b0a.css.map": "/eswarreactlearning/static/css/main.073c9b0a.css.map",
-    "main.e0240d9b.js.map": "/eswarreactlearning/static/js/main.e0240d9b.js.map",
-    "787.b24b3bec.chunk.js.map": "/eswarreactlearning/static/js/787.b24b3bec.chunk.js.map"
+    "main.css": "/eswarreactapp/static/css/main.073c9b0a.css",
+    "main.js": "/eswarreactapp/static/js/main.cbe5b55c.js",
+    "static/js/787.b24b3bec.chunk.js": "/eswarreactapp/static/js/787.b24b3bec.chunk.js",
+    "static/media/logo.svg": "/eswarreactapp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/eswarreactapp/index.html",
+    "main.073c9b0a.css.map": "/eswarreactapp/static/css/main.073c9b0a.css.map",
+    "main.cbe5b55c.js.map": "/eswarreactapp/static/js/main.cbe5b55c.js.map",
+    "787.b24b3bec.chunk.js.map": "/eswarreactapp/static/js/787.b24b3bec.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.e0240d9b.js"
+    "static/js/main.cbe5b55c.js"
   ]
 }
